@@ -8,7 +8,7 @@ queue=[]
 print("Lets open our fictional queue!")
 print("Put the first person arriving into the queue:")
 queue.append(input())
-print("Lets see our queue now")
+print("\nLets see our queue now")
 print(queue)
 
 print("Now keep putting people in the queue to see the shape its being formed, if you want to stop just press(-)")
