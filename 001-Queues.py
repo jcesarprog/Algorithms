@@ -18,6 +18,7 @@ while True:
     if var != '-':
         queue.append(var)
         print("\nLets see our queue")
+        #TESTE
         print(queue)
     else:
         print("\nThat's it, you have finished our queue")
