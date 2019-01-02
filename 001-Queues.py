@@ -33,6 +33,6 @@ while queue:
         print("Now our queue is empty and the program will end!")
     time.sleep(2)
 
-print("As you've seen the first element to arrive into our queue was the first element to leave the queue(FIFO)")
+print("\nAs you've seen the first element to arrive into our queue was the first element to leave the queue(FIFO)")
     
 
