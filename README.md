@@ -1,2 +1,2 @@
 # Algorithms
-Some algorothms used in AI
+Some algorithms used in AI
