@@ -8,7 +8,7 @@ stack=[]
 print("Lets open our fictional Stack!")
 print("Put the first object arriving into the stack:")
 stack.append(input())
-print("\n\nLets see our stack now")
+print("\nLets see our stack now:")
 print(stack)
 
 print("Now keep putting objects in the stack to see the shape its being formed")
