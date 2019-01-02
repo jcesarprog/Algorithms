@@ -11,7 +11,7 @@ queue.append(input())
 print("\nLets see our queue now")
 print(queue)
 
-print("Now keep putting people in the queue to see the shape its being formed, if you want to stop just press(-)")
+print("Now keep putting people in the queue to see the shape its being formed")
 while True:    
     print("\nPut the next person arriving into the queue: (if you want to stop just press '-')")
     var = input()
