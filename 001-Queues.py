@@ -1,6 +1,6 @@
 """The Expected behavior of a structure using queue is what happens on any real life queues
 When you are in a queue at the bank you have to wait until it's your turn
-So it's called a FIFO structuro, where the acronymous stands for First-In-First-Out
+So it's called a FIFO structure, where the acronymous stands for First-In-First-Out
 """
 import time
 queue=[]
