@@ -27,7 +27,7 @@ print("\nLets see our queue now")
 
 print("Now lets see who will leave the queue in order!\n")
 while queue:
-    print("==> {} left the queue to be served".format(queue.pop(0)))
+    print("==> {} left the queue".format(queue.pop(0)))
     print(queue,"\n")
     if queue == []:
         print("Now our queue is empty and the program will end!")
