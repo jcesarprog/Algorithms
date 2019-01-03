@@ -27,7 +27,7 @@ print("\nLets see our stack now")
 
 print("Now lets see who will leave the stack in order!\n")
 while stack:
-    print("==> {} left the stack to be served".format(stack.pop()))
+    print("==> {} left the stack".format(stack.pop()))
     print(stack,"\n")
     if stack == []:
         print("Now our stack is empty and the program will end!")
